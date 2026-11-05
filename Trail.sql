@@ -1,0 +1,2 @@
+INSERT INTO TABLE ( NUMBER, NAME, ADDRESS, PHONE, EMAIL) VALUES ( 1, 'John Doe', '123 Main St', '555-1234', 'john.doe@example.com' );
+SELECT * FROM TABLE;
